@@ -1,4 +1,4 @@
-Backbone.Marionette WebJar
+Backbone.relational WebJar
 
 More info: http://webjars.org
 
