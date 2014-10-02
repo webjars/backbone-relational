@@ -78,7 +78,7 @@
                         <configuration>
                             <url>${upstreamSourceUrl}</url>
                             <fromFile>backbone-relational.js</fromFile>
-                            <toDir>${destDir}</toDir>
+                            <toFile>${destDir}/backbone.relational.js</toFile>
                         </configuration>
                     </execution>
                   <!--  <execution>
